@@ -2,7 +2,7 @@
 # Starsky.app
 
 <p align="center">
-  <img style="border-radius: 10px;" src="https://cdn.discordapp.com/attachments/551050418541821992/1366724626675142746/Untitled_design_1.png?ex=6811fcff&is=6810ab7f&hm=c8f6ffc7567968f2eed9ad7f1b7b511e3d53dc328dc7e1786fc30a953a2cb7d4&" alt="Starsky Logo" width="100" />
+  <img src="https://cdn.discordapp.com/attachments/551050418541821992/1366727162312527914/Untitled_design_1-modified.png?ex=6811ff5c&is=6810addc&hm=2bbc05a072c6fde39ea6bc6485de08df1f65836117265047c176cf8239087acf&" alt="Starsky Logo" width="100" />
 </p>
 
 > From idea to app. Instantly.
